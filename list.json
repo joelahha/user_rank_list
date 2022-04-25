@@ -1,0 +1,128 @@
+{
+  "totalDocs": 12,
+  "currentPage": 0,
+  "pageSize": 0,
+  "totalPage": 0,
+  "docs": [
+    {
+      "id": "11111122222",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 1,
+      "point": 32000,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    },
+    {
+      "id": "2222333333",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 2,
+      "point": 25900,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    },
+    {
+      "id": "33333344444",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 3,
+      "point": 22012,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    },
+    {
+      "id": "444555555",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 4,
+      "point": 19853,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    },
+    {
+      "id": "554555553",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 5,
+      "point": 13120,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    },
+    {
+      "id": "555555623",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 6,
+      "point": 11702,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    },
+    {
+      "id": "6789909111",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 7,
+      "point": 10508,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    },
+    {
+      "id": "789909333",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 8,
+      "point": 9820,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    },
+    {
+      "id": "829909222",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 9,
+      "point": 8501,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    },
+    {
+      "id": "919909234",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 10,
+      "point": 7554,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    },
+    {
+      "id": "219979231",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 11,
+      "point": 5550,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    },
+    {
+      "id": "119969288",
+      "profileImage": "",
+      "profileTuhmbnail": "",
+      "rank": 12,
+      "point": 4075,
+      "distance": 0,
+      "duration": 0,
+      "count": 0
+    }
+  ]
+}
